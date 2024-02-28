@@ -53,10 +53,8 @@ The algorithm consists of the following steps:
 - `train_spoofedfacedetection_model.py`: Script to train the spoofed face detection model using a dataset of genuine and spoofed faces.
 
 ## Output Screenshots
-- Test Case/Screen Shot 1
-- Screen Shot 2
-- Screen Shot 3
-- Screen Shot 4
+![Screenshot1](https://github.com/anoopreddy3001/Spoofed-Face-Detection/assets/132026714/06fe2161-f72d-4897-bb3f-9d404dd2db00)
+
 
 ## Future Works
 Future research directions include:
